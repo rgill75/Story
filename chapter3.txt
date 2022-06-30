@@ -1,1 +1,3 @@
 I learned CSS. This is the way to style your page.
+
+I do this at home! Woo hoo!
